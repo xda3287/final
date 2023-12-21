@@ -1,0 +1,6 @@
+flask
+sqlalchemy
+waitress
+psycopg
+azure-identity
+azure-keyvault-secrets
